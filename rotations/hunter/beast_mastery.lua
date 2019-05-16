@@ -37,7 +37,7 @@ local interrupts = {
 }
 
 local keybinds = {
-	{ 'Tar Trap', 'keybind(control)', 'curser.ground'},
+	{ 'Tar Trap', 'keybind(control)', 'cursor.ground'},
 	{ '%pause', 'keybind(alt)'},
 }
 
